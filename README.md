@@ -1,6 +1,8 @@
 
 Finding all subdomains Listed on the main website webpage and finding there corresponding Ip Addresses
 
+2 ways script0.sh is not as much effective as script.sh is!
+
 Start by downloading the index page using wget:
 
 $ wget www.website.com
